@@ -1,6 +1,6 @@
 # Context Hub 索引
 
-本索引按主题定位已整理材料。当前仅完成目录初始化；后续新增内容时应在对应区块登记。
+本索引按主题定位已整理材料。新增内容时优先更新已有主题文件；只有真正独立、以后需要单独检索的主题才新增文件。
 
 ## Formal Research Repositories
 
@@ -16,6 +16,7 @@
 ## Research Sidequests
 
 - 临时 idea：`research-sidequests/ideas/`
+  - [`2026-09-14-closed-loop-control-x-leo-matrix.md`](research-sidequests/ideas/2026-09-14-closed-loop-control-x-leo-matrix.md)：无人机/无人车/机器人闭环控制业务机制 × LEO/NTN 属性矩阵；记录从“泛 QoS/低时延猜题”修正为“业务机制左轴 × LEO 特性逐格 collision”的方法，以及多 flow 闭环事务、C2 mode transition、redundant C2 三个待审 seed family。
 - 被 KILL 方向：`research-sidequests/killed-directions/`
 - 论文笔记：`research-sidequests/paper-notes/`
 - 观察记录：`research-sidequests/observations/`
