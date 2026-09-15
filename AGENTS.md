@@ -18,6 +18,8 @@
 
 不能把 AI 推测伪装成当时已经发生的事实。未验证内容、回忆性总结和正式状态必须清楚区分。
 
+涉及 LEO / NTN / D2C / Starlink / satellite networking 的 related-work 或 artifact 导航时，优先参考 `meta/satellite-related-work-navigation.md`。其中 curated list 只作为发现入口，不能替代原论文、标准、代码、专利、数据集或正式科研仓库的 evidence/collision 记录。
+
 ## 3. Conversation compression
 
 不要机械复制完整 ChatGPT 对话。一段有长期价值的聊天应压缩为以下结构：
