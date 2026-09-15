@@ -44,4 +44,6 @@
 
 ## Meta
 
+- [`meta/satellite-related-work-navigation.md`](meta/satellite-related-work-navigation.md)：LEO/NTN/D2C/Starlink related-work 导航经验；把 Awesome Satellite Networking 作为跨 topic 的论文/artifact/dataset/testbed 发现入口，但必须回到原论文、标准、代码、专利或原始数据取证，不能把 curated list 本身当 primary evidence 或 novelty proof。
+
 `meta/` 用于科研方法、ChatGPT 工作流、explanation style 与跨对话恢复规则；`inbox/` 用作尚待整理的材料入口。
