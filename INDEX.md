@@ -48,6 +48,7 @@
 ## Meta
 
 - [`meta/research-memory-and-agent-workflow.md`](meta/research-memory-and-agent-workflow.md)：ChatGPT Memory / Context Hub / 正式科研仓库的三层分工；渐进式读取、decision boundary、completion contract 和跨库 firewall。
+- [`meta/2026-09-15-gpt6-astra-workflow-optimization.md`](meta/2026-09-15-gpt6-astra-workflow-optimization.md)：本次基于 GPT-6 Astra 官方提示词/Skills 建议做的 instruction-debt 审计；记录旧规则漂移、为什么做减法、实际改了哪些仓库，以及哪些科学约束必须保留。
 - [`meta/satellite-related-work-navigation.md`](meta/satellite-related-work-navigation.md)：LEO/NTN/D2C/Starlink related-work 导航经验；curated list 只能作为发现入口，必须回到原论文、标准、代码、专利或原始数据取证。
 
 `meta/` 用于稳定科研方法、ChatGPT 工作流、explanation style 与跨对话恢复规则；`inbox/` 用作尚待整理的材料入口。
