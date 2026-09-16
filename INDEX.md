@@ -29,6 +29,7 @@
 ## Learning
 
 - 5G 核心网：`learning/5g-core/`
+  - [`n2-sctp-tnla-leo-paths-discussion.md`](learning/5g-core/n2-sctp-tnla-leo-paths-discussion.md)：N2、SCTP association/primary、multiple TNLA/weight、IP/卫星物理路径的防歧义入门；记录地面→再生式 LEO 的认识修正、related-work 边界和本对话继续状态（非正式科研结论）。
 - 网络：`learning/networking/`
 - 卫星：`learning/satellite/`
 - 分布式系统：`learning/distributed-systems/`
