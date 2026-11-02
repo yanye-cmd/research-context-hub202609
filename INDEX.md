@@ -2,6 +2,14 @@
 
 本索引按主题定位长期上下文。新增内容时优先更新已有主题文件；只有真正独立、以后需要单独检索的主题才新增文件。
 
+## Engineering Project Repositories
+
+| 仓库 | 用途 | 状态权威性 |
+| --- | --- | --- |
+| [`yanye-cmd/d2c-n3-testbed`](https://github.com/yanye-cmd/d2c-n3-testbed) | D2C 5G N3 GTP-U 用户面实验平台：架构、环境、代码、配置、工程任务与运行证据 | 该平台工程状态唯一权威来源；不裁决正式科研成熟度 |
+
+工程状态问题直接读取该仓库的 `AGENTS.md`、`PROJECT_CHARTER.md`、`HANDOFF.md`、`tasks/NEXT_CODEX_TASK.md`。不要从 Context Hub 或正式科研仓库推断平台当前是否部署、运行或通过验收。
+
 ## Formal Research Repositories
 
 | 仓库 | 用途 | 状态权威性 |
@@ -48,7 +56,7 @@
 
 ## Meta
 
-- [`meta/research-memory-and-agent-workflow.md`](meta/research-memory-and-agent-workflow.md)：ChatGPT Memory / Context Hub / 正式科研仓库的三层分工；渐进式读取、decision boundary、completion contract 和跨库 firewall。
+- [`meta/research-memory-and-agent-workflow.md`](meta/research-memory-and-agent-workflow.md)：ChatGPT Memory / Context Hub / 工程项目仓库 / 正式科研仓库的职责边界；渐进式读取、decision boundary、completion contract 和跨库 firewall。
 - [`meta/2026-09-15-gpt6-astra-workflow-optimization.md`](meta/2026-09-15-gpt6-astra-workflow-optimization.md)：本次基于 GPT-6 Astra 官方提示词/Skills 建议做的 instruction-debt 审计；记录旧规则漂移、为什么做减法、实际改了哪些仓库，以及哪些科学约束必须保留。
 - [`meta/satellite-related-work-navigation.md`](meta/satellite-related-work-navigation.md)：LEO/NTN/D2C/Starlink related-work 导航经验；curated list 只能作为发现入口，必须回到原论文、标准、代码、专利或原始数据取证。
 
